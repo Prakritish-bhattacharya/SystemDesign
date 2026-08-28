@@ -117,7 +117,7 @@
 >To target objects location we use `self` keyword.
 >
 >👉&nbsp;&nbsp;&nbsp;&nbsp;[Constructor example](./code/constructor.py)
->[![Open Editor](https://img.shields.io/badge/>Open%20Editor-F9AB00?logo=googlecolab&logoColor=white)](./>code/constructor.py)
+>[![Open Editor](https://img.shields.io/badge/>Open%20Editor-F9AB00?logo=googlecolab&logoColor=white)](./code/constructor.py)
 >
 >
 > **Types of Attribute**
