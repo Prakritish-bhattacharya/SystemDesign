@@ -10,7 +10,7 @@
 >
 > SO lets start....
 
----
+--- 
 
 # Classes
 > A class is like a blueprint or template for creating objects. Think of a class like the blueprint of a house. It defines what the house should have (rooms, windows, etc.) but doesn't build the house. An object is the house built using that blueprint.
