@@ -167,7 +167,7 @@
 >```
 > - 2. Parameterized constructor
 >
->`Parameterized constructors` are constructors that have parameters and a reference to the instance being created called `self`. The self reference serves as the first argument.
+>`Parameterized constructors` are constructors that have parameters and a reference to the instance being created called `self`. The self reference serves as the first argument....
 >```python
 >class Details:
 >    def __init__(self, name, age):
