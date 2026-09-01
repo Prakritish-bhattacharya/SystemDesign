@@ -41,3 +41,10 @@ Class diagrams depict classes, attributes, methods, and relationships between ob
     <em>Anatomy of a Class</em>
   </p>
 </p>
+
+- **Top Section:** Class Name — Student
+- **Middle Section:** Attributes (Fields) — e.g., name, rollNumber, email, age, and cgpa, each with its data type and access modifier:
+    - `+ Public`
+    - `- Private`
+    - `# Protected`
+- **Bottom Section:** Methods (Behaviors) — e.g., enrollCourse(), updateEmail(), calculateCGPA(), isEligibleForPlacement(), and getStudentInfo(), including their parameters and return types.
