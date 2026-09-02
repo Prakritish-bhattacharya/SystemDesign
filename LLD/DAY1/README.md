@@ -48,4 +48,5 @@ Class diagrams depict classes, attributes, methods, and relationships between ob
     - `- Private`
     - `# Protected`
 - **Bottom Section:** Methods (Behaviors) — e.g., enrollCourse(), updateEmail(), calculateCGPA(), isEligibleForPlacement(), and getStudentInfo(), including their parameters and return types...
+- 
 
