@@ -54,9 +54,9 @@
 
 ## Objects in OOPs
 <p align="center">
-  <a href="./image/objects.png">
+  <a href="../image/objects.png">
     <img 
-      src="./image/objects.png" 
+      src="../image/objects.png" 
       width="700"
       alt="Architecture diagram"
     />
@@ -88,9 +88,9 @@
 ---
 
 <p align="center">
-  <a href="./image/oops.png">
+  <a href="../image/oops.png">
     <img 
-      src="./image/oops.png" 
+      src="../image/oops.png" 
       width="700"
       alt="Architecture diagram"
     />
@@ -118,8 +118,8 @@
 >```
 >To target objects location we use `self` keyword.
 >
->👉&nbsp;&nbsp;&nbsp;&nbsp;[Constructor example](./code/constructor.py)
->[![Open Editor](https://img.shields.io/badge/>Open%20Editor-F9AB00?logo=googlecolab&logoColor=white)](./code/constructor.py)
+>👉&nbsp;&nbsp;&nbsp;&nbsp;[Constructor example](../code/constructor.py)
+>[![Open Editor](https://img.shields.io/badge/>Open%20Editor-F9AB00?logo=googlecolab&logoColor=white)](../code/constructor.py)
 >
 >
 > **Types of Attribute**
